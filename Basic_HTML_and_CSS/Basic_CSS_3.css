@@ -1,0 +1,10 @@
+ul {
+	color: lime;
+	background: black;
+	font-weight: absolute;
+	text-align: left;
+}
+ol {
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  text-align: center;
+}
